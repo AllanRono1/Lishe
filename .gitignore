@@ -1,0 +1,4 @@
+node_modules
+.env
+report.md
+report.html
